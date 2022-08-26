@@ -14,7 +14,7 @@ What Express is
 
 Here is a simple diagram of what our API would be. 
 
-![](https://ibb.co/fFzHRxw)
+![Alt text](https://i.ibb.co/g9LJ1RK/IMG-20220826-141728.jpg)
 
 Express.js is a popular web framework written in JavaScript. This module's job is to ease the development process and help you set up your API.
 
